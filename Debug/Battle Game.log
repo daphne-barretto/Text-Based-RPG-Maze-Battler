@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\student\desktop\daphne b\battle game\battle game\main.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Battle Game.vcxproj -> C:\Users\student\Desktop\Daphne B\Battle Game\Debug\Battle Game.exe
